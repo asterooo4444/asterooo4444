@@ -1,35 +1,30 @@
 # 👨‍💻 Ahmed Abdo | Frontend Developer
 
-مرحبًا! أنا أحمد عبده، مبرمج فرنت إند مهتم ببناء واجهات مستخدم سريعة، تفاعلية، وبتجربة مستخدم ممتازة. عندي خلفية قوية في تصميم وتطوير صفحات الويب باستخدام HTML, CSS, وJavaScript، وكمان عندي معرفة بلغات مثل C++ وC50.
+Hello! I'm Ahmed Abdo, a Frontend Developer passionate about building fast, interactive user interfaces with an excellent user experience.  
+I have a strong background in designing and developing web pages using **HTML, CSS, and JavaScript**, and knowledge in programming languages like **C++** and **CS50 fundamentals**.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Abdo&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🧰 Tech Toolbox
 
-اللغات والتقنيات اللي بشتغل بيها:
-
-- 🖼️ **HTML5** – الهيكل العام للمواقع
-- 🎨 **CSS3** – تنسيق وتجميل الصفحات
-- ⚙️ **JavaScript (Vanilla JS)** – تفاعل المستخدم والوظائف الديناميكية
-- 🧠 **C50** – الأساسيات والمفاهيم البرمجية من خلال Harvard CS50
-- 💻 **C++** – الخوارزميات وهياكل البيانات
+- 🖼️ **HTML5** – Structure of websites  
+- 🎨 **CSS3** – Styling and layouts  
+- ⚙️ **JavaScript (Vanilla JS)** – Interactivity and dynamic functions  
+- 🧠 **CS50** – Programming fundamentals (Harvard CS50)  
+- 💻 **C++** – Algorithms and data structures  
 
 ---
 
-## 📂 مشاريعي
+## 📫 Contact Me
 
-- [اسم المشروع 1](رابط المشروع): وصف مختصر عن المشروع.
-- [اسم المشروع 2](رابط المشروع): وصف مختصر عن المشروع.
-- ... (ضيف مشاريعك هنا)
-
----
-
-## 📫 تواصل معايا
-
-- 📧 Email: [ahmevhknd77@gmail.com]
-- 💼 LinkedIn: [رابط لينكد إن لو عندك]
-- 🌐 Portfolio: [رابط البورتفوليو لو عندك]
+- 📧 Email: **ahmevhknd77@gmail.com**  
+- 📘 Facebook: [My Profile](https://www.facebook.com/photo/?fbid=508103477413103&set=a.107378874152234)  
+- 📱 WhatsApp: **01146199041**  
 
 ---
 
-> "البرمجة مش بس كود، هي طريقة تفكير."
+> "Programming is not just about code, it’s a way of thinking."
