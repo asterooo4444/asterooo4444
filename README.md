@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 مرحباً! أنا أحمد عبده
 
-<!--
-**asterooo4444/asterooo4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 مطور واجهات أمامية (Front-End Developer) شغوف ببناء مواقع وتطبيقات ويب سريعة ومتجاوبة ومستخدمة لأحدث التقنيات.
 
-Here are some ideas to get you started:
+## 🧰 المهارات والتقنيات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML5 | CSS3 | JavaScript (ES6+)
+- ⚛️ React.js | Next.js
+- 🎨 Sass | Tailwind CSS | Bootstrap
+- 🧪 Git | GitHub | VS Code
+- 📦 npm | Webpack | Vite
+- 📱 Responsive Design | SEO Basics
+
+## 📁 بعض مشاريعي
+
+| اسم المشروع | الوصف | الرابط |
+|-------------|--------|--------|
+| **Portfolio** | موقعي الشخصي لعرض أعمالي | [🔗 زيارة](https://your-portfolio-link.com) |
+| **E-Commerce UI** | واجهة متجر إلكتروني احترافية باستخدام React | [🔗 GitHub](https://github.com/username/project-name) |
+| **Dashboard Template** | لوحة تحكم بواجهة مستخدم متقدمة | [🔗 GitHub](https://github.com/username/project-name) |
+
+## 📈 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 📫 تواصل معي
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: youremail@example.com
+- 🌐 [موقعي الشخصي](https://your-portfolio-link.com)
